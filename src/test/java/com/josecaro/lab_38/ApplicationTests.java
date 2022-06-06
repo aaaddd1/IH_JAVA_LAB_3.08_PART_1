@@ -1,4 +1,4 @@
-package com.josecaro.lab_34;
+package com.josecaro.lab_38;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
